@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goliumamaheswari
-- 👀 I’m interested in in working 
+- 👀 I’m interested in  working 
 - 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate ..
 - 📫 How to reach me through LinkedIn 
